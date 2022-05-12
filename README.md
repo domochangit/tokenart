@@ -1,2 +1,2 @@
-# tokenart
-A platform for artists to get financing by tokenizing their project and investors to earn by supporting artists.
+# tokenHive
+Links artists looking for backing by tokenizing their project. 
